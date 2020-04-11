@@ -1,0 +1,22 @@
+
+.card{
+    margin: 3%;
+    border: 1px solid gray;
+}
+
+.painel{
+    margin-top: 2%;
+    width: 80%;
+    /* border: 1px solid gray; */
+}
+
+.tabela{
+    margin-top:2%;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+
+
+input[aria-controls="tableAdministradores"]{
+    border:1px solid black;
+}

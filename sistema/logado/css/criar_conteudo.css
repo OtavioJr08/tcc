@@ -1,0 +1,11 @@
+.card{
+    margin: 3%;
+    border: 1px solid gray;
+}
+
+.painel{
+    margin-top: 2%;
+    width: 80%;
+    /* border: 1px solid gray; */
+    /* background-color: red !important; */
+}

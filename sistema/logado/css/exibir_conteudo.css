@@ -1,0 +1,18 @@
+.respostas{
+    color:blue; 
+    font-weight:bold;
+}
+.respostas:hover{
+    text-decoration: underline;
+}
+
+.card{
+    margin: 3%;
+    border: 1px solid gray;
+}
+
+.painel{
+    margin-top: 2%;
+    width: 80%;
+    /* border: 1px solid gray; */
+}

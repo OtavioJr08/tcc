@@ -1,0 +1,44 @@
+.linhas{
+    height:100px;
+}
+.menu_materia{
+
+    background-color:#dee2e6;		
+
+    margin-top:10px;
+    border: 2px solid #dee2e6;
+    overflow: scroll;
+    padding:25px;
+    max-height:550px;
+    min-height:150px;
+    border-radius:5px;
+
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.conteudo_materia{
+    padding:10px;
+    /* margin-top:10px; */
+    text-align:justify;
+    background-color:white;
+    margin-left:1.2px;
+    height:auto;
+    margin-bottom:30px;
+}
+
+.card{
+    margin: 3%;
+    border: 1px solid gray;
+}
+
+.painel{
+    margin-top: 2%;
+    width: 80%;
+    /* border: 1px solid gray; */
+}
+
+input[aria-controls="tableDenuncias"]{
+    border:1px solid black;
+}
+
